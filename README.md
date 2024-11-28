@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 28.11.24
+## Register Number: 24901014
+## Name: ARUNRAJ R
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,58 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+```
+1. Alumni Registration
 
+Description: Simple registration process to create and update profiles.
+Benefits: Builds a centralized database for streamlined communication.
+2. Donation Portal
+
+Description: Secure, transparent system for online donations.
+Benefits: Increases alumni contributions, funding scholarships, and infrastructure projects.
+3. Networking Hub
+
+Description: Connect alumni based on profession, geography, or shared interests.
+Benefits: Facilitates mentorship, collaboration, and career growth.
+4. Job Portal
+
+Description: Post and search for job opportunities within the alumni network.
+Benefits: Supports alumni and student career advancement.
+5. Alumni Directory
+
+Description: Search for alumni by graduation year, industry, or location.
+Benefits: Enhances networking and community building.
+6. Success Story Tracking
+
+Description: Showcase alumni achievements through profiles and stories.
+Benefits: Motivates students and builds pride in the institution.
+```
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/d3c74cdc-c1a9-4ff0-8025-0e5dff7c060c)
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/1c2f0b94-c565-421c-a8e1-f0e25cc3f228)
 
 
 ## Technology Stack
-
+```
+ React.js
+ Flutter
+ Django/Node.js
+ PostgreSQL
+ MongoDB
+ Redis
+ AWS/GCP/Azure
+```
 
 ## Dependencies
+```
+Mapping service- 10 days
+
+Data collection- 10 days
+
+budget- rs.50,000
+```
 
